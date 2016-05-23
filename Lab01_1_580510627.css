@@ -1,0 +1,38 @@
+body { 
+    background-color: #666666; 
+}
+
+.container { 
+    background-color: #666666; 
+    width: 80%; 
+    margin: auto; 
+} 
+
+.header { 
+    font-family: Chewy;
+    border: 5px solid #000000; 
+    border-radius: 10px;
+    padding: 10px; 
+    text-align: center; 
+    box-shadow: 5px 5px 5px grey;
+}
+
+.day {
+    font-family: Chewy;
+    font-size: 25px;
+    text-align: center;
+}
+
+.NormalDay {
+    font-family: Chewy;
+    font-size: 20px;
+    color: rgb(102, 217, 255);
+    text-align: center;
+}
+
+.BirthDay {
+    font-family: Chewy;
+    font-size: 20px;
+    color: rgb(153, 255, 102);
+    text-align: center;
+}
